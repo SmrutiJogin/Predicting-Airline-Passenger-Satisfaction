@@ -1,11 +1,11 @@
-# ✈️ Predicting Airline Passenger Satisfaction Using Machine Learning
+#  Predicting Airline Passenger Satisfaction Using Machine Learning
 
-## 📌 Problem Statement
+##  Problem Statement
 The airline industry relies heavily on customer satisfaction for loyalty, repeat business, and competitive advantage. This project builds machine learning models to predict whether a passenger is **Satisfied** or **Neutral/Dissatisfied** based on demographic information, travel details, flight delays, and service ratings.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 ├── Predicting_Airline_Passenger_Satisfaction_Using_Machine_Learning.ipynb
 ├── requirements.txt
@@ -15,7 +15,7 @@ The airline industry relies heavily on customer satisfaction for loyalty, repeat
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - **Source:** Custom airline passenger survey dataset (`DS-DATA.csv`)
 - **Size:** 129,880 rows × 24 columns
 - **Target Variable:** `Satisfaction` → Binary (Satisfied / Neutral or Dissatisfied)
@@ -30,7 +30,7 @@ The airline industry relies heavily on customer satisfaction for loyalty, repeat
 
 ---
 
-## 🔧 Workflow
+##  Workflow
 
 ### 1. Data Understanding
 - Explored shape, datatypes, and distributions
@@ -68,13 +68,13 @@ Three classifiers were trained and evaluated:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Python 3.x
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -100,7 +100,7 @@ jupyter notebook Predicting_Airline_Passenger_Satisfaction_Using_Machine_Learnin
 
 ---
 
-## 📈 Results Summary
+##  Results Summary
 
 | Model | Train Accuracy | Test Accuracy |
 |---|---|---|
